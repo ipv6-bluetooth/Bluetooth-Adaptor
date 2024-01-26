@@ -1,0 +1,1 @@
+powershell -file .\bluetooth.ps1 -BluetoothStatus Off
